@@ -39,7 +39,6 @@ Start the development server:
 
 npm start
 
-Open http://localhost:3000 in your browser.
 
 Enter a city name in the search bar and view the weather details.
 
